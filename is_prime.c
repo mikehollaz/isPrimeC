@@ -47,3 +47,4 @@ next_prime(int n) {
 	return next_prime(n);
 }
 
+// you should ad a print statement here, so it looks nice
