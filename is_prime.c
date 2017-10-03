@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
+// please add comments
 int is_prime(int n);
 int next_prime(int n);
 
