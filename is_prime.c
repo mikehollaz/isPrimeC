@@ -28,7 +28,7 @@ int
 is_prime(int n) {
 	int divisor;
 
-	for (divisor = 2; divisor*divisor <= n; divisor++) {
+	for (divisor = 6; divisor*divisor <= n; divisor++) {
 		if (n % divisor == 0) {
 			return 0;
 		}
