@@ -1,0 +1,2 @@
+# isPrimeC
+checks prime numbers
